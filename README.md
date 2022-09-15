@@ -1,2 +1,3 @@
 # Jogo SECRET WORD 
-   * jogo de descobrir a palavra chave, chatando letras do alfabeto.
+   * Jogo de descobrir a palavra chave, chutando letras do alfabeto.
+   * Desenvolvido com React Js.
